@@ -6,5 +6,5 @@
 **Technologies used** : HTML5, CSS3, JS, ES6
 
 Updated Portfolio can be seen here 
-  [link to Portfolio](zingy-ganache-ff2dbb.netlify.app/)
+  [link to Portfolio](http://zingy-ganache-ff2dbb.netlify.app/)
 <br />
